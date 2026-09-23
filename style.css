@@ -1,3 +1,18 @@
 body{
-    background-color: #ff0000
+    background-color: #000000
+}
+.monster1{
+    margin-left: 5%;
+}
+
+.title{
+    color:#a70303
+}
+
+.txt1{
+    color: rgb(220, 20, 20);
+}
+
+.txt2{
+    color: rgb(255, 0, 0);
 }
